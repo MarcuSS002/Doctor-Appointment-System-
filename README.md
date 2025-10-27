@@ -40,5 +40,4 @@ It was developed to understand **real-world application architecture**, authenti
 
 
 
-
- 🗂 Project Structure
+ 
